@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure.iml" filepath="$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure_main.iml" group="cucumber_gradle_selenide_allure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cucumber_gradle_selenide_allure_test.iml" group="cucumber_gradle_selenide_allure" />
+    </modules>
+  </component>
+</project>

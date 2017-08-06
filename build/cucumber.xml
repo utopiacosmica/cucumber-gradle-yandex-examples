@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="LoginFeature" name="Login with correct username and password" time="0">
+<skipped><![CDATA[Given I navigate to the main page...........................................undefined
+And I enter the username utopia.cosmica@yandex.ru and password Inever44ty45tyh.undefined
+And I click submit button...................................................undefined
+Then I should see the mail page.............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>

@@ -4,6 +4,6 @@ Feature: LoginFeature
   @TestngScenario
   Scenario: Login with correct username and password
     Given I navigate to the main page
-    And I enter the username utopia.cosmica@yandex.ru and password Inever44ty45tyh
+    And I enter the username utopia.cosmica@yandex.ru and password testfortest
     And I click submit button
     Then I should see the mail page
